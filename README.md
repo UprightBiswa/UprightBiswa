@@ -1,10 +1,8 @@
 [![MasterHead](https://th.bing.com/th/id/R.75ea38495d3a5bc0c90316b57f9bbfb5?rik=CKmgcCEhXQE1OA&riu=http%3a%2f%2fwww.pramukhdigital.com%2fwp-content%2fuploads%2f2018%2f07%2fNew-PNC-Animated-Banners.gif&ehk=fs6XGSkrODbDz9LuU2tZgUw5aQd76DxwLvAaGpktUZI%3d&risl=&pid=ImgRaw&r=0)]
 <h1 align="center">Hi 👋, I'm Biswajit Das</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/02/creative-process.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uprightbiswa&label=Profile%20views&color=0e75b6&style=flat" alt="uprightbiswa" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uprightbiswa" alt="uprightbiswa" /></a> </p>
 
 - 🔭 I’m currently working on **SDE Intern @Techmion**
 
@@ -14,11 +12,13 @@
 
 - 📝 I regularly write articles on [https://uprightbiswa052mca.blogspot.com/](https://uprightbiswa052mca.blogspot.com/)
 
-- 💬 Ask me about **Java, Software Engineering,**
+- 💬 Ask me about **Java, Software Engineering,php, MySql.**
 
 - 📫 How to reach me **djdas000000@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/14qIkHW7vv2foqU12vrGIb5CYBerm3bES/edit?usp=sharing&ouid=112802291724770917537&rtpof=true&sd=true](https://docs.google.com/document/d/14qIkHW7vv2foqU12vrGIb5CYBerm3bES/edit?usp=sharing&ouid=112802291724770917537&rtpof=true&sd=true)
+
+- ⚡ Hobby **Cycling(200km BRM),Photography**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,5 +39,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=uprightbiswa&show_icons=true&locale=en&layout=compact" alt="uprightbiswa" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uprightbiswa&show_icons=true&locale=en" alt="uprightbiswa" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uprightbiswa&" alt="uprightbiswa" /></p>
