@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uprightbiswa&label=Profile%20views&color=0e75b6&style=flat" alt="uprightbiswa" /> </p>
 
 - 🔭 I’m currently working on **SAP Trainee @Indigi**
-- 
+  
 - 🔭 I have done my internship work on **SDE Intern @Techmion**
 
 - 🌱 I’m currently learning **Laravel, JavaScript**
