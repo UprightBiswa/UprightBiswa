@@ -4,7 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2021/02/creative-process.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uprightbiswa&label=Profile%20views&color=0e75b6&style=flat" alt="uprightbiswa" /> </p>
 
-- 🔭 I’m currently working on **SDE Intern @Techmion**
+- 🔭 I’m currently working on **SAP Trainee @Indigi**
+- 
+- 🔭 I have done my internship work on **SDE Intern @Techmion**
 
 - 🌱 I’m currently learning **Laravel, JavaScript**
 
@@ -12,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://uprightbiswa052mca.blogspot.com/](https://uprightbiswa052mca.blogspot.com/)
 
-- 💬 Ask me about **Java, Software Engineering,php, MySql.**
+- 💬 Ask me about **Flutter, Java, PHP, Laravel, MySql.**
 
 - 📫 How to reach me **djdas000000@gmail.com**
 
