@@ -6,7 +6,7 @@
 
 - 👨‍💻 Portfolio - [https://uprightbiswa.github.io/portfolio/]
   
-- 🔭 I’m currently working on **SAP Trainee @Indigi**
+- 🔭 I’m currently working on **Flutter Developer @Indigi**
   
 - 🔭 I have done my internship work on **SDE Intern @Techmion**
 
